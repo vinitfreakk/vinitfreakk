@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/freak_vinit" target="blank"><img src="https://img.shields.io/twitter/follow/freak_vinit?logo=twitter&style=for-the-badge" alt="freak_vinit" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Kotlin**
+- 🌱 I’m always learning.
 
 - 💬 Ask me about **Android**
 
