@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vinithanabar20@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1Gca1gerzQYIUai1ZsbH-XdOEwKrcWr9v/view](https://drive.google.com/file/d/1Mc7XzpKjq_BJM4mU_qamUhzOnH4vFLCP/view)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1Mc7XzpKjq_BJM4mU_qamUhzOnH4vFLCP/view)]
 
 - ⚡ Fun fact **I am Electrical Engineer**
 
