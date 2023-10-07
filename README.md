@@ -1,5 +1,5 @@
 <p align="center">
-<img align = "center" alt = "coding" height = "500" width = "700" src ="https://forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fjn7quV4Y2xXW8x1Jik%2Fgiphy.gif&hash=f5c7376bd3a7f8e3e66dbb2671f5db26">
+<img src="https://www.designboom.com/wp-content/uploads/2023/09/android-brand-new-logo-3D-designboom-08.gif" altwebdevgif" />
   </p>
 <h1 align="center">Hi 👋, I'm Vinit Ashok Hanabar</h1>
 <h3 align="center">I have a good experience in Android app development, won Smart India Hackathon 2022. Mastering Java, Kotlin, and OOPs, I'm ready to conquer any challenge. A tech Avenger shaping the future! 😁🚀</h3>
