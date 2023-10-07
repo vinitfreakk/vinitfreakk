@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **vinithanabar20@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1Mc7XzpKjq_BJM4mU_qamUhzOnH4vFLCP/view"> Know about my experiences</a>
-
 - ⚡ Fun fact **I am Electrical Engineer**
 
 <h3 align="left">Connect with me:</h3>
